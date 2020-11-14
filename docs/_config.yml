@@ -28,7 +28,8 @@ twitter_username: fumiya_kume
 github_username:  fumiya-kume
 
 # Build settings
-theme: jekyll-theme-cayman
+markdown: kramdown
+theme: minima
 plugins:
   - jekyll-feed
 
