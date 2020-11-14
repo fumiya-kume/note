@@ -17,3 +17,5 @@ Visual Studio Code で記事を書いている。 Visual Studio Code の Extensi
 
 普通に Extension 入れるところから **gitdoc** で探せば出てくる。
 
+https://user-images.githubusercontent.com/116461/79521572-5a3bfe00-800e-11ea-83a0-8e125122fa8f.gif
+
