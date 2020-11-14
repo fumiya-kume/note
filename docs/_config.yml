@@ -22,7 +22,7 @@ title: Kuu's notes
 email: fumiya.kume@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Kuu's notes, theres is relation to technorogy(Android, Gradle...)
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/note" # the subpath of your site, e.g. /blog
 url: "note.kuu.systems" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fumiya_kume
 github_username:  fumiya-kume
