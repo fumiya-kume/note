@@ -18,5 +18,5 @@ Google Drive の拡張機能の「Stack Edit」を利用することができな
 
 https://developers.google.com/apps-script/guides/client-verification
 
-Google App Script で OAuth する時に審査があるのだが、それを受けてない雰囲気を感じた。
+Google App Script で OAuth する時に審査があるのだが、それをしてない雰囲気を感じた。
 (メンテされてなさそう...)
