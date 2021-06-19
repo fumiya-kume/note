@@ -6,6 +6,7 @@ category: note
 author: kuu
 tags: []
 summary: 
+parent: misc
 ---
 
 個人的なメモをMarkdown で記録できるようにした。

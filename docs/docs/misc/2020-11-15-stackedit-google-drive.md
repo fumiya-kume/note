@@ -6,6 +6,7 @@ category:
 author: kuu
 tags: []
 summary: 
+parent: misc
 ---
 
 Google Drive の拡張機能の「Stack Edit」を利用することができなかった。

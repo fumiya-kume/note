@@ -6,6 +6,7 @@ category:
 author: kuu
 tags: []
 summary: 
+parent: misc
 ---
 
 日本語で物事を考えるのではなく、英語で考えるコツについて
