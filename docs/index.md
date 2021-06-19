@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 title: Kuu's Note
+nav_exclude: true
 ---
 
 <nav role="navigation" aria-label="Main" id="site-nav">
