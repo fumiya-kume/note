@@ -29,9 +29,24 @@ github_username:  fumiya-kume
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
+
+# Aux links for the upper right navigation
+aux_links:
+  "About author":
+    - "http://whois.kuu.systems/"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
+color_scheme: dark
+
+permalink: pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
+, "docs/tests/"
+]   
 
 # Exclude from processing.
 # The following items will not be processed, by default.
